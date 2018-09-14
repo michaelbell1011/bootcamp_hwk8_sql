@@ -1,0 +1,2 @@
+# bootcamp_hwk8_sql
+completed sql script with instructions embedded
